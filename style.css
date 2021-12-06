@@ -1,0 +1,20 @@
+body{
+    background-color: #77e70f;
+    color: rgb(12, 10, 10);
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    /* width: 50vw; */
+}
+.center{
+   background-color: rgb(161, 243, 9);
+   color: rgb(19, 2, 2);
+   padding: 50px;
+   margin: 2px 520px;
+}
+.pdng{
+    margin: 10px;
+    font-size: 18px;
+}
